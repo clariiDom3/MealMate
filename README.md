@@ -17,6 +17,29 @@
 
 ---
 
+## Folder Structure
+
+```bash
+lib/
+├── add/               # UI for adding meals
+├── home/              # Main meal model and utilities
+├── profile/           # User profile and preferences
+├── shared/            # Shared widgets/components
+├── main.dart          # App entry point
+```
+
+---
+
+## Technologies Used
+- Flutter
+- Dart
+- ScopedModel for state management
+- HTTP package for fetching meals
+- Path Provider and Share Plus for file export
+- Local SQLite database (via MealDBWorker)
+
+---
+
 ## Installation
 
 ### 1. Clone the repository
@@ -37,6 +60,7 @@ flutter pub get
 ```bash
 flutter run
 ```
+---
 
 Want to try out a new Flutter project?
 
