@@ -24,17 +24,19 @@
 ```bash
 git clone https://github.com/yourusername/mealmate.git
 cd mealmate
+```
 
 ### 2. Install dependencies
 
 ```bash
 flutter pub get
+```
 
 ### 3. Run the app
 
 ```bash
 flutter run
-
+```
 
 Want to try out a new Flutter project?
 
