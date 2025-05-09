@@ -64,11 +64,11 @@ flutter run
 
 ## 🙋‍♀️ Author
 Made with ❤️ by Clarissa Dominguez — the brain and heart behind MealMate.
+
+
 [LinkedIn](https://www.linkedin.com/in/clarissa-dominguez/)
 
-
-
-
+---
 
 Want to try out a new Flutter project?
 
