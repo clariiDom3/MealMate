@@ -1,23 +1,23 @@
-# MealMate
+# 🥗 MealMate
 
 **MealMate** is a Flutter-based mobile application that helps users plan their meals, track ingredients, analyze nutrition, and export shopping lists — all based on their dietary preferences.
 
 ---
 
 
-## Features
+## 🚀 Features
 
--  Select and schedule meals by day
--  Filter meals by dietary preferences (vegan, pescatarian, etc.)
--  Browse meals by category (Breakfast, Lunch, Dinner, Snacks)
--  Analyze meal nutrition (calories, protein, fat, carbs)
--  Favorite meals for quick access
--  Export a shopping list based on selected meals
--  Data stored locally with optional cloud sync (planned)
+- 🗓 Select and schedule meals by day
+- 🔍 Filter meals by dietary preferences (vegan, pescatarian, etc.)
+- 🍳 Browse meals by category (Breakfast, Lunch, Dinner, Snacks)
+- 📊 Analyze meal nutrition (calories, protein, fat, carbs)
+- ❤️ Favorite meals for quick access
+- 📤 Export a shopping list based on selected meals
+- 🧠 Data stored locally with optional cloud sync (planned)
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```bash
 lib/
@@ -30,7 +30,7 @@ lib/
 
 ---
 
-## Technologies Used
+## ⚙️ Technologies Used
 - Flutter
 - Dart
 - ScopedModel for state management
@@ -40,7 +40,7 @@ lib/
 
 ---
 
-## Installation
+## 📦 Installation
 
 ### 1. Clone the repository
 
@@ -61,6 +61,14 @@ flutter pub get
 flutter run
 ```
 ---
+
+## 🙋‍♀️ Author
+Made with ❤️ by Clarissa Dominguez — the brain and heart behind MealMate.
+[LinkedIn](https://www.linkedin.com/in/clarissa-dominguez/)
+
+
+
+
 
 Want to try out a new Flutter project?
 
