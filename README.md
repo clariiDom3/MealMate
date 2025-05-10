@@ -45,7 +45,7 @@ lib/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/mealmate.git
+git clone [https://github.com/yourusername/mealmate.git](https://github.com/clariiDom3/MealMate.git)
 cd mealmate
 ```
 
