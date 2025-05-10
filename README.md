@@ -34,7 +34,7 @@ lib/
 - Flutter
 - Dart
 - ScopedModel for state management
-- HTTP package for fetching meals
+- HTTP package for fetching meals from TheMealDB API
 - Path Provider and Share Plus for file export
 - Local SQLite database (via MealDBWorker)
 
